@@ -5,3 +5,7 @@ The Vertex Generator allows rapid capture of verticies of the path of a vechicle
 When all verticies have been placed, the user would press the `Get JSON` button. A GeoJson data structure is then generated and displayed in a textarea element. The user can then copy/paste the GeoJson for further use.
 
 The Vertex Generator is built upon an [example](https://www.mapbox.com/mapbox-gl-js/example/measure/) from [Mapbox](https://www.mapbox.com).
+
+**Screenshot**
+
+![Settings Window](https://raw.github.com/boeric/VertexGenerator/master/Screenshot.png)
