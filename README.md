@@ -8,4 +8,4 @@ The Vertex Generator is built upon an [example](https://www.mapbox.com/mapbox-gl
 
 **Screenshot**
 
-![Settings Window](https://raw.github.com/boeric/VertexGenerator/master/Screenshot.png)
+![Screenshot](https://raw.github.com/boeric/VertexGenerator/master/Screenshot.png)
