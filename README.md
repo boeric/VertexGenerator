@@ -1,4 +1,4 @@
-# Vertex Generator
+# vertex-generator
 
 The Vertex Generator allows rapid capture of verticies of a **simulated** path of a vechicle or person. Each captured vertex is a geo location where the path is changing direction. Each vertex also has a notion of speed. The geo locations and speed information can be used by a post processing tool to "fill in" the geo location between the verticies. 
 
